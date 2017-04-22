@@ -1,4 +1,7 @@
-# test coverage for  [cliui (v3.2.0)](https://github.com/yargs/cliui#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cliui.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cliui) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cliui.svg)](https://travis-ci.org/npmtest/node-npmtest-cliui)
+# npmtest-cliui
+
+#### basic test coverage for  [cliui (v3.2.0)](https://github.com/yargs/cliui#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-cliui.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-cliui) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-cliui.svg)](https://travis-ci.org/npmtest/node-npmtest-cliui)
+
 #### easily create complex multi-column command-line-interfaces
 
 [![NPM](https://nodei.co/npm/cliui.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/cliui)
@@ -111,7 +114,8 @@
             "it"
         ]
     },
-    "version": "3.2.0"
+    "version": "3.2.0",
+    "bin": {}
 }
 ```
 
